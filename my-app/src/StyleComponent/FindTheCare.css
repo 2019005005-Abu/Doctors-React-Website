@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+.findthecare{
+    position: relative;
+    margin-top: 50px;
+    height: auto;
+}
+
+
+.findTheCareHeading{
+  font-size: 2rem;
+  font-family: sans-serif;
+  font-weight:  bolder;
+  color: #273240;
+  line-height: 60px;
+}
+
+.careDescription{
+    margin-top: 200px;
+}
+.careParadescription{
+    font-size: 14px;
+    margin-top: 20px;
+    line-height: 21px;
+    
+}
+
+.careButton button{
+    max-width: 10px 20px;
+    margin-top: 20px;
+    padding: 16px 44px;
+    cursor: pointer;
+    background-color: #ff8b42;
+    color: white;
+    width: 243px;
+
+}
+
+.smilingDoctor img{
+    margin-top: 40px;
+    width: 410px;
+    height: 618px;
+}
+.smilingNurse img{
+    width: 450px;
+    height: 800px;
+}
+
+
+
+
+
+
+ 
+

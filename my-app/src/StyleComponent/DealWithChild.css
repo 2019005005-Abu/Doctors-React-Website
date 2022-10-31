@@ -1,0 +1,78 @@
+.consultant{
+    margin-top: 200px;
+    position: relative;
+}
+.conlogo img{
+    border: 2px solid;
+    background:#6237e4;
+    border-radius: 50%;
+    margin: 5px;
+    padding: 5px 7px;
+    border: none;
+}
+.consultParentLogo{
+    box-shadow: 10px 20px white;
+    position: relative;
+    left: 420px;
+    top: 80px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 33px;
+    box-shadow: 5px 12px 12px 3px rgba(139,139,139,0.25);
+}
+.p_con{
+    font-size: 10px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.p_span{
+  top:12px ;
+  font-size: 10px;
+  position: absolute;
+  font-family: sans-serif;
+  
+}
+.context{
+    position: relative;
+    top: 10px;
+}
+
+.conlogo1 img{
+    border: 2px solid;
+    background:#0089ba;
+    border-radius: 50%;
+    margin: 5px;
+    padding: 5px 7px;
+    border: none;
+}
+.consultParentLogo_down{
+    box-shadow: 10px 20px white;
+    position: relative;
+    left: 990px;
+    top: 600px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 33px;
+    box-shadow: 5px 12px 12px 3px rgba(139,139,139,0.25);
+    position: absolute;
+}
+
+.sickkindHeading h1{
+    margin-top: 200px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.stepsList{
+    margin-top: 100px;
+    margin-right: 50px;
+  
+}
+.step_1,.step_2,.step_3,.step_4{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+}
+

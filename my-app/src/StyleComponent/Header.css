@@ -1,0 +1,56 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.header{
+    background-color: #272042;
+    padding-bottom: 30px;
+}
+.logo img{
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+   
+    
+}
+.doctors_logo{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    align-items: center;
+}
+.doctors_logo_Header{
+    margin: 20px;
+    margin-left: 5px;
+}
+.nav_1{
+    color: #FFFFFF !important;
+}
+
+.navBar_Toggle .arrowIconsStyle{
+ font-size: 2px;
+}
+
+.SingLonInButton button{
+    margin: 3px;
+    padding: 10px 20px;
+    background-color: #ff8b42;
+    color: white;
+    float: left;
+    border-radius: 6px;
+}
+
+.chevedownIcons{
+    color: #FFFFFF!important;
+    margin-top:8px ;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:600px) {
+    .chevedownIcons{
+       visibility: hidden;
+       margin-top: 10px;
+    }
+}

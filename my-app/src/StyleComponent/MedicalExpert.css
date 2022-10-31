@@ -1,0 +1,24 @@
+.Medical_expert{
+  margin-top: 200px;
+}
+.expert_Heading h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.MedicalDescription p{
+ text-align: center;
+ font-size: 10px;
+ margin-bottom: 50px;
+}
+
+.carosuelSlider{
+    display: flex;
+    flex-direction: row;
+}
+
+.slider{
+   margin-left: 300px;
+
+}
